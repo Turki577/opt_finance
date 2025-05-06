@@ -1,0 +1,158 @@
+{
+  "meta": {
+    "title": "Option Financial - Tailored Financial Solutions",
+    "description": "Independent financial consulting office providing financial analysis, investment planning, and feasibility studies for individuals and companies"
+  },
+  "header": {
+    "title": "Option Financial",
+    "aboutUs": "About Us",
+    "services": "Our Services",
+    "contactUs": "Contact Us",
+    "openMenu": "Open Menu",
+    "closeMenu": "Close Menu"
+  },
+  "hero": {
+    "title": "Customized Financial Solutions for a More Stable Financial Future",
+    "subtitle": "A team of professional financial advisors to help you achieve your financial goals with confidence and independence",
+    "discoverServices": "Discover Our Services",
+    "contactUs": "Contact Us"
+  },
+  "about": {
+    "title": "About Us",
+    "description": "We are an independent financial consulting office with expertise in financial analysis, investment planning, and feasibility studies. We help you make better financial decisions and achieve your goals with confidence.",
+    "feature1": {
+      "title": "Advisory Expertise",
+      "description": "A specialized team of financial experts with diverse backgrounds to provide comprehensive solutions for your financial needs."
+    },
+    "feature2": {
+      "title": "Complete Independence",
+      "description": "We work independently to ensure objective financial advice without any conflicts of interest."
+    },
+    "feature3": {
+      "title": "Customized Solutions",
+      "description": "We design financial strategies that suit your personal needs and future goals with precision and efficiency."
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "description": "We offer a comprehensive range of financial services designed to meet the needs of individuals and companies",
+    "tabs": {
+      "individuals": "For Individuals",
+      "business": "For Companies & Entrepreneurs",
+      "additional": "Additional Services"
+    },
+    "individual": {
+      "service1": {
+        "title": "Personal Financial Planning",
+        "description": "We help you identify your financial goals and create a clear plan to achieve them, with analysis of your current situation and specific recommendations."
+      },
+      "service2": {
+        "title": "Debt & Budget Management",
+        "description": "Effective strategies to eliminate debt and manage personal budgets to improve your financial situation and achieve stability."
+      },
+      "service3": {
+        "title": "Investment Consulting",
+        "description": "We provide objective advice on investment options suitable for your personal profile and acceptable level of risk."
+      }
+    },
+    "business": {
+      "service1": {
+        "title": "Economic Feasibility Studies",
+        "description": "Comprehensive analysis of investment opportunities and economic feasibility assessment for new and existing projects."
+      },
+      "service2": {
+        "title": "Business & Financial Planning",
+        "description": "Developing integrated business plans and financial strategies for startups and existing companies to achieve sustainable growth."
+      },
+      "service3": {
+        "title": "Financial Evaluation of Companies",
+        "description": "Analysis and evaluation of companies' financial situations and providing recommendations to improve performance and increase market value."
+      },
+      "service4": {
+        "title": "Bank Financing File Preparation",
+        "description": "Preparing the necessary files and documents to obtain bank financing and providing support during the negotiation process."
+      },
+      "service5": {
+        "title": "Tax Consulting & Corporate Structuring",
+        "description": "Providing optimal tax solutions and designing the appropriate organizational structure to increase efficiency and reduce costs."
+      }
+    },
+    "additional": {
+      "service1": {
+        "title": "Remote Consulting Sessions",
+        "description": "We provide remote financial consulting services with time and location flexibility for our clients wherever they are."
+      },
+      "service2": {
+        "title": "Property Valuation",
+        "description": "Professional valuation of real estate and other properties using scientific and objective methods, providing detailed and accurate valuation reports for various purposes."
+      }
+    }
+  },
+  "whyChooseUs": {
+    "title": "Why Choose Us?",
+    "yearsOfExperience": "Years of Experience",
+    "reason1": {
+      "title": "Independence & Objectivity",
+      "description": "We work independently and provide advice with complete objectivity without any external influence, ensuring that your interest is our priority."
+    },
+    "reason2": {
+      "title": "Specialized Experienced Team",
+      "description": "Our consultants are distinguished by extensive experience in the financial field and certified professional certifications to ensure the highest levels of service."
+    },
+    "reason3": {
+      "title": "Customized Solutions",
+      "description": "We design financial solutions that suit your individual needs and specific circumstances, not ready-made solutions that fit everyone."
+    }
+  },
+  "callToAction": {
+    "title": "Ready to Start Your Financial Journey with Us?",
+    "description": "Get a free initial consultation and discover how we can help you achieve your financial goals",
+    "button": "Contact Us Now"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "description": "Do you have a question? Or would you like a free initial consultation? Message us via the form or contact us directly",
+    "success": "Your message has been sent successfully!",
+    "successMessage": "We will contact you soon.",
+    "error": "An error occurred",
+    "errorMessage": "We were unable to send your message, please try again later.",
+    "form": {
+      "title": "Send a Message",
+      "name": "Full Name",
+      "email": "Email",
+      "phone": "Phone Number",
+      "service": "Required Service",
+      "servicePlaceholder": "Select Service",
+      "otherService": "Other Service",
+      "message": "Message",
+      "send": "Send Message",
+      "sending": "Sending..."
+    },
+    "info": {
+      "title": "Contact Information",
+      "email": "Email",
+      "whatsapp": "WhatsApp",
+      "address": "Address",
+      "addressValue": "Jeddah, Saudi Arabia",
+      "followUs": "Follow Us"
+    }
+  },
+  "footer": {
+    "companyName": "Option Financial",
+    "tagline": "The trusted partner for achieving your financial goals and investments safely and independently.",
+    "quickLinks": "Quick Links",
+    "privacyPolicy": "Privacy Policy",
+    "termsConditions": "Terms & Conditions",
+    "newsletter": "Newsletter",
+    "newsletterDesc": "Subscribe to our newsletter to get the latest financial tips and special offers.",
+    "emailPlaceholder": "Email",
+    "subscribe": "Subscribe",
+    "copyright": "© 2023 Option Financial. All rights reserved."
+  },
+  "newsletter": {
+    "success": "Successfully Subscribed!",
+    "successMessage": "Thank you for subscribing to our newsletter.",
+    "error": "An error occurred",
+    "errorMessage": "We were unable to register your subscription, please try again later."
+  }
+}
